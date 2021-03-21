@@ -15,5 +15,17 @@ GitHub is the website to host your repositories over web. Git and Github are not
 Commands :
 
 1. git init -> To initiate the Git repo.
-2. git remote add origin https://github.com/vsharm22/git-learning.git -> To add the repository in local before pushing. 
+2. git remote add origin https://github.com/vsharm22/git-learning.git -> To add the repository in local before pushing.
+
+3. git branch <new_branch_name> -> create new branch
+4. git checkout <new_branch_name> -> checkout the new create branch.
+5. git commit & push the branch 
+   git push origin <new_branch_name>
+6. Merge of new branch to master
+   checkout the master branch then git merge <new_branch_name>
+   git push origin master
+7. Deleting the new branch.
+
+
+We can also enable email notification in git hub under settings->integration & services whenever the changes made in repo the email will be trigger.  
  
