@@ -1,0 +1,13 @@
+GIT -> 
+1 . To track changes in file and folders and collaborat changes with in the team.
+
+
+CVS ( Central Version Control System):
+1. In this every one is directly connecting to the centralized repository and incase if there is anything we cannot recover it. 
+2. Also for every code push and pull you always need to connect to the Internet.
+
+Distributed Version Control System: 
+1. Every person is having their own local repo apart from the centralized repo so incase of any issue the central repo can be recover from any other machine.
+2. You only need to connect to the internet while doing the push and pull only.
+
+GitHub is the website to host your repositories over web. Git and Github are not related. you can use Git with github or bitbucket.
