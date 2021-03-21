@@ -11,3 +11,8 @@ Distributed Version Control System:
 2. You only need to connect to the internet while doing the push and pull only.
 
 GitHub is the website to host your repositories over web. Git and Github are not related. you can use Git with github or bitbucket.
+
+Commands :
+
+1. Git init -> To initiate the Git repo.
+ 
