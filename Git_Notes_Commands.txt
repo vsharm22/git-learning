@@ -14,5 +14,6 @@ GitHub is the website to host your repositories over web. Git and Github are not
 
 Commands :
 
-1. Git init -> To initiate the Git repo.
+1. git init -> To initiate the Git repo.
+2. git remote add origin https://github.com/vsharm22/git-learning.git -> To add the repository in local before pushing. 
  
